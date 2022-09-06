@@ -1,4 +1,3 @@
-# Test task
+# Character calculator
 
-This is a test task for versus systems. Using React, Redux.
-Vercel: https://test-task-swart.vercel.app/
+This is a character calculator of fictitious rpg game. I used React, Redux
